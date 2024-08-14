@@ -1,0 +1,8 @@
+## Interface: 110056008  # WoW version number as of 08/11/2024
+## Title: ConfuciusSay
+## Notes: Randomly says a zen quote every 2-5 minutes. Great for contemplative monks.
+## Author: El Gabba Ghoul
+## Version: 1.0.0
+
+confuciussay.lua
+quotes.txt
